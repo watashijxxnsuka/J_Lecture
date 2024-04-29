@@ -1,0 +1,10 @@
+package chap02_variables;
+
+public class chap02_ScopeOVariables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
