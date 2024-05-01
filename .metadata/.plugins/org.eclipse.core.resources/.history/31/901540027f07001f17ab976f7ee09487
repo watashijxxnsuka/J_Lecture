@@ -1,0 +1,34 @@
+package chap07_class.circle;
+
+public class Circle {
+	
+	public String Circle;
+	
+	public int radius;
+	
+	public double Pi = 3.14;
+	
+	
+	public Circle() {
+		
+	}
+	
+	public Circle(int radius) {
+		this.radius = radius;
+		
+	}
+	
+	public double o() {
+		int result = (int) (2 * Pi * radius);
+		return result;
+	}
+	
+	public double area() {
+		int result = (int) (Pi * radius * radius);
+		return result;
+	}
+	
+	
+	
+
+}

@@ -10,4 +10,9 @@
     <fullyQualifiedTypeName name="chap06_method.calc.CompleteCalculator"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="chap06_method.calc.OverloadingCalculator"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework02.RockScissPaper"/>
+    <fullyQualifiedTypeName name="chap07_class.car.CarConstructer"/>
+    <fullyQualifiedTypeName name="chap07_class.car.CarConstructor"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="chap07_class.game.NumBaseball"/>
 </qualifiedTypeNameHistroy>

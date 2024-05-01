@@ -1,0 +1,22 @@
+package chap07_class.circle;
+
+public class Circle {
+	
+	public String Circle;
+	
+	public int radius;
+	
+	public String Pi;
+	
+	public Circle() {
+		
+	}
+	
+	public Circle(int radius) {
+		this.radius = radius;
+		
+	}
+	
+	
+
+}
