@@ -1,0 +1,30 @@
+package chap11_abstraction.tv;
+
+public class LgTv extends Tv {
+	
+	@Override
+	public void powerOn() {
+		System.out.println("QLED");
+	}
+	
+	@Override
+	public void powerOff() {
+		System.out.println("QLED");
+	}
+	
+	@Override
+	public void operate(int channel) {
+		System.out.println("QLED c");
+	}
+
+	@Override
+	public void channelUp() {
+		lastChannel++;
+	}
+
+	@Override
+	public void channelDown() {
+		lastChannel--;
+	}
+
+}
