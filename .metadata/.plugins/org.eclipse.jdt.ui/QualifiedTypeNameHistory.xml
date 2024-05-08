@@ -8,7 +8,6 @@
     <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="chap06_method.calc.CompleteCalculator"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="chap06_method.calc.OverloadingCalculator"/>
     <fullyQualifiedTypeName name="chap99_homework.homework02.RockScissPaper"/>
     <fullyQualifiedTypeName name="chap07_class.car.CarConstructer"/>
@@ -31,4 +30,28 @@
     <fullyQualifiedTypeName name="chap12_interface.device.SamsungTv"/>
     <fullyQualifiedTypeName name="chap12_interface.device.LgTv"/>
     <fullyQualifiedTypeName name="chap12_interface.device.ElectronicDevice"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework05.InputSubjectScore"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework05.InputStudentInfo"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework05.PrintStudentInfo"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Mul"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Div"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.LocalNestedClass"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.AnonymousNestedClass"/>
+    <fullyQualifiedTypeName name="chap14_objectarray.car.Car"/>
+    <fullyQualifiedTypeName name="chap14_objectarray.car.CarInterface"/>
+    <fullyQualifiedTypeName name="chap09_inherit.car.HyundaiCar"/>
+    <fullyQualifiedTypeName name="chap14_objectarray.car.HyundaiCar"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="chap16_usefulclass._01_Object.ObjectExample"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework05.PrintStudentRank"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
 </qualifiedTypeNameHistroy>
