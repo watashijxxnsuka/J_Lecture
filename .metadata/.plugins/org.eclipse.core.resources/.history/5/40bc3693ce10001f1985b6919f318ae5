@@ -1,0 +1,41 @@
+package chap19_generic.board;
+
+public class Board {
+	
+	private int BoardNo;
+	private String BoardTitle;
+	
+	public Board() {
+		
+	}
+	
+	public NoticeBoard(int noticeBoardNo, String noticeBoardTitle) {
+		this.noticeBoardNo = noticeBoardNo;
+		this.noticeBoardTitle = noticeBoardTitle;
+	}
+
+	public int getBoardNo() {
+		return BoardNo;
+	}
+
+	public void setBoardNo(int BoardNo) {
+		this.BoardNo = BoardNo;
+	}
+
+	public String getBoardTitle() {
+		return BoardTitle;
+	}
+
+	public void setBoardTitle(String BoardTitle) {
+		this.BoardTitle = BoardTitle;
+	}
+
+	@Override
+	public String toString() {
+		return "Board [BoardNo=" + BoardNo + ", BoardTitle=" + BoardTitle + "]";
+	}
+	
+	
+	
+	
+}

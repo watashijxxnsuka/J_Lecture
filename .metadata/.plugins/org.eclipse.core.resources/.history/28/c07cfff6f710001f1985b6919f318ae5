@@ -1,0 +1,19 @@
+package chap20_enum.enums;
+
+public class MultivalueMonth2 {
+	// 1. 값이 여러개인 상수 선언
+	// 첫번째 선언된 상수의 값의 타입, 개수와 일치시켜서 만들어야 한다.
+	JAN(1, "JANUARY"),
+	FEB(2, "FEBURARY"),
+	MAR(3, "MARCH"),
+	APR(4, "APRIL"),
+	MAY(5, "MAY"),
+	JUN(6, "JUNE"),
+	JUL(1, "JULY"),
+	AUG(1, "AUGUST"),
+	SEP(1, "SEPTEMBER"),
+	OCT(1, "OCTOVBER"),
+	NOV(1, "NOVEMBER"),
+	DEC(1, "DECEMBER");
+	
+}

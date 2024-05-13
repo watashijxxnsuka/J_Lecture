@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap99_homework.homework02.RockScissPaper"/>
-    <fullyQualifiedTypeName name="chap07_class.car.CarConstructer"/>
-    <fullyQualifiedTypeName name="chap07_class.car.CarConstructor"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="chap07_class.game.NumBaseball"/>
-    <fullyQualifiedTypeName name="chap99_homework.homework03.PhoneInfo"/>
-    <fullyQualifiedTypeName name="chap08_static.car.CarStatic"/>
-    <fullyQualifiedTypeName name="chap09_inherit.car.HyundaiCarInherit"/>
-    <fullyQualifiedTypeName name="chap09_inherit.car.Car"/>
     <fullyQualifiedTypeName name="chap09_inherit.car.KiaCarInherit"/>
     <fullyQualifiedTypeName name="chap10_polymorphism.tv.SamsungTv"/>
     <fullyQualifiedTypeName name="chap10_polymorphism.member.Member"/>
@@ -57,7 +48,16 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="chap14_objectarray.car.Car"/>
-    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="chap19_generic.box.Box"/>
+    <fullyQualifiedTypeName name="chap19_generic.board.FreeBoard"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="chap19_generic.ramyun.LimitiedRamyun01"/>
+    <fullyQualifiedTypeName name="chap19_generic.ramyun.LimitedRamyun01"/>
+    <fullyQualifiedTypeName name="javax.xml.crypto.dsig.keyinfo.RetrievalMethod"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.DefaultMonth"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.MultiValueMonth"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.MethodMonth"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.ValueMonth"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.Season"/>
 </qualifiedTypeNameHistroy>
