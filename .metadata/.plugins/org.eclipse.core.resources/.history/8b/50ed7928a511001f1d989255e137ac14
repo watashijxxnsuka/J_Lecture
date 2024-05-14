@@ -1,0 +1,9 @@
+package chap21_multithread.threads;
+
+public class NonSyncThread01 {
+	private PrintNumWithoutSync pnws;
+	
+	public void setPnws() {
+		this.pnws = pnws;
+	}
+}
