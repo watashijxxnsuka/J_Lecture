@@ -1,0 +1,8 @@
+package chap23_stream;
+
+public class _02_StreamMethodOrder {
+	public static void main(String[] args) {
+		
+	}
+
+}

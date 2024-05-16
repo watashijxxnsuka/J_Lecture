@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Mul"/>
-    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass"/>
-    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Div"/>
-    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.LocalNestedClass"/>
-    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.AnonymousNestedClass"/>
-    <fullyQualifiedTypeName name="chap14_objectarray.car.CarInterface"/>
-    <fullyQualifiedTypeName name="chap09_inherit.car.HyundaiCar"/>
-    <fullyQualifiedTypeName name="chap14_objectarray.car.HyundaiCar"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
-    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
-    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
-    <fullyQualifiedTypeName name="chap16_usefulclass._01_Object.ObjectExample"/>
-    <fullyQualifiedTypeName name="chap99_homework.homework05.PrintStudentRank"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
@@ -60,4 +42,22 @@
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="chap22_lambda.basiclambda.Calculator"/>
+    <fullyQualifiedTypeName name="chap22_lambda.basiclambda.Add"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Mul"/>
+    <fullyQualifiedTypeName name="chap22_lambda.basiclambda.Mul"/>
+    <fullyQualifiedTypeName name="chap22_lambda.basiclambda.ConcatString"/>
+    <fullyQualifiedTypeName name="chap22_lambda.basiclambda.BasicCalculator"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="chap21_multithread._07_NonSyncSharedObj"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="chap22_lambda.reference.MoneyConvertor"/>
+    <fullyQualifiedTypeName name="chap22_lambda.reference.Convertcase"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="chap22_lambda.reference.Academy"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.academy.EngAcademy"/>
+    <fullyQualifiedTypeName name="chap22_lambda.reference.MathAcademy"/>
+    <fullyQualifiedTypeName name="chap22_lambda.reference.EnglishAcademy"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="chap23_stream.car.HyundaiCar"/>
 </qualifiedTypeNameHistroy>

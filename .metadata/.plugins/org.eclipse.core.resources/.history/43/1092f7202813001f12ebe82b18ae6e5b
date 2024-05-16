@@ -1,0 +1,18 @@
+package chap22_lambda;
+
+import chap13_nestedclass.nestedclass.NestedClass.Mul;
+
+public class _03_ParameterLambda {
+	public static void main(String[] args) {
+		
+	}
+	
+	public static void mul(int a, int b) {
+		mul.mul(a,b);
+	}
+	
+	public static void singlemul(int a, SingleMul singleMul) {
+		Mul.staticMul(a, b);
+	}
+
+}
