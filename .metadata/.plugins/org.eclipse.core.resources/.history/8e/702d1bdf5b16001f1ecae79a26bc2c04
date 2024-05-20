@@ -1,0 +1,22 @@
+package chap24_dataio;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+public class _09_DataInputOutputStream {
+	
+	public static void main(String[] args) {
+		
+		try {
+			
+		} catch (FileNotFoundException fe) {
+			System.out.println(fe.getMessage());
+		} catch(IOException ie) {
+			System.out.println(ie.getMessage());
+		}
+		
+		
+		
+	}
+
+}

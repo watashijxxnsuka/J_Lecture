@@ -1,0 +1,22 @@
+package chap24_dataio;
+
+import java.io.IOException;
+
+public class _13_Files {
+	public static void main(String[] args) {
+		
+		try {
+			String data = "이름: 한서준\n전화번호: 010-1111-1111";
+			
+			// 1. Files 클래스의 메소드는 static 으로 선언되어 있어서 객체 생성없이 사용가능하다.
+			
+			
+		} catch(IOException ie) {
+			System.out.println(ie.getMessage());
+		}
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,18 @@
+package chap24_dataio;
+
+import java.io.IOException;
+
+public class _13_Files {
+	public static void main(String[] args) {
+		
+		try {
+			
+		} catch(IOException ie) {
+			System.out.println(ie.getMessage());
+		}
+		
+		
+		
+	}
+
+}
